@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BeingAloof
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning php
